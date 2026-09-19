@@ -1,0 +1,3647 @@
+{
+  "voices": [
+    {
+      "speaker_id": "zh_female_bvtxyguanggao",
+      "name": "陕西掌柜",
+      "voice_id": "1514487092994",
+      "tags": [
+        "女",
+        "中年",
+        "陕西口音",
+        "热情"
+      ],
+      "tab": "accent,characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_bvtxyyule",
+      "name": "西安姐姐",
+      "voice_id": "1516189252610",
+      "tags": [
+        "女",
+        "中年",
+        "陕西口音",
+        "热情"
+      ],
+      "tab": "accent,characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_fengbaobao_wvae_bigtts",
+      "name": "宝宝冯",
+      "voice_id": "2278087401474",
+      "tags": [
+        "女",
+        "青年",
+        "四川口音",
+        "内敛"
+      ],
+      "tab": "accent,characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_jiyejizi",
+      "name": "幼教姐姐",
+      "voice_id": "10661220597250",
+      "tags": [
+        "女",
+        "中年",
+        "台湾口音",
+        "温柔"
+      ],
+      "tab": "accent,characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_4b1feb0ced67",
+      "name": "安全哥",
+      "voice_id": "2216788167549698",
+      "tags": [
+        "男",
+        "青年",
+        "广西口音",
+        "喜感"
+      ],
+      "tab": "accent,characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_chaawangqiang",
+      "name": "茶啊二中王强",
+      "voice_id": "340273888143874",
+      "tags": [
+        "男",
+        "青年",
+        "东北话",
+        "憨气"
+      ],
+      "tab": "accent,characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_hupunan",
+      "name": "上海阿宝",
+      "voice_id": "27933043915010",
+      "tags": [
+        "男",
+        "青年",
+        "上海口音",
+        "阳光"
+      ],
+      "tab": "accent,characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_liangjiahui",
+      "name": "帅气港叔",
+      "voice_id": "11442574709506",
+      "tags": [
+        "男",
+        "中年",
+        "广东口音",
+        "耐心"
+      ],
+      "tab": "accent,characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_shangyin",
+      "name": "霸音商主",
+      "voice_id": "11490288794626",
+      "tags": [
+        "男",
+        "中年",
+        "广东口音",
+        "理性"
+      ],
+      "tab": "accent,characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_taiyizhenren",
+      "name": "天府道尊",
+      "voice_id": "11122174967810",
+      "tags": [
+        "男",
+        "中年",
+        "四川口音",
+        "幽默"
+      ],
+      "tab": "accent,characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_wangye_wvae_bigtts",
+      "name": "北京小爷",
+      "voice_id": "2278101118978",
+      "tags": [
+        "男",
+        "青年",
+        "北京口音",
+        "潇洒"
+      ],
+      "tab": "accent,characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_xionger_clone",
+      "name": "憨憨熊仔",
+      "voice_id": "11860513693442",
+      "tags": [
+        "男",
+        "青年",
+        "河南口音",
+        "憨气"
+      ],
+      "tab": "accent,characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_beijingdaniu_mars_bigtts",
+      "name": "北京大妞",
+      "voice_id": "20556312119633410",
+      "tags": [
+        "女",
+        "青年",
+        "北京口音",
+        "开朗"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_bvchengdu",
+      "name": "成都妹妹",
+      "voice_id": "1516754624258",
+      "tags": [
+        "女",
+        "青年",
+        "四川口音",
+        "阳光"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_changsha_f01_wvae_bigtts",
+      "name": "妹坨洁儿",
+      "voice_id": "29448950684930",
+      "tags": [
+        "女",
+        "青年",
+        "长沙口音",
+        "活泼"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_chuanmei",
+      "name": "泼辣姐姐",
+      "voice_id": "1513686242562",
+      "tags": [
+        "女",
+        "中年",
+        "四川口音",
+        "泼辣"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_dblizhi",
+      "name": "东北大妹",
+      "voice_id": "10661220617474",
+      "tags": [
+        "女",
+        "青年",
+        "东北口音",
+        "直率"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_guangxiwrn",
+      "name": "桂乡甜妞",
+      "voice_id": "903897616355586",
+      "tags": [
+        "女",
+        "青年",
+        "广西口音",
+        "温柔"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_taiwanjiazi",
+      "name": "作精少女",
+      "voice_id": "11122159617282",
+      "tags": [
+        "女",
+        "青年",
+        "台湾口音",
+        "矫情"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_xiaopengyou",
+      "name": "稚气奶娃",
+      "voice_id": "11583306499330",
+      "tags": [
+        "女",
+        "小孩",
+        "台湾口音",
+        "天真"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_yangguangtianmei_uranus_bigtts",
+      "name": "阳光甜妹（升级版）",
+      "voice_id": "5238154621186",
+      "tags": [
+        "女",
+        "青年",
+        "台湾口音",
+        "温柔"
+      ],
+      "tab": "accent,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_M392_conversation_wvae_bigtts",
+      "name": "京腔侃爷",
+      "voice_id": "30",
+      "tags": [
+        "男",
+        "青年",
+        "北京口音",
+        "潇洒"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_bvbeijing",
+      "name": "京城爷们",
+      "voice_id": "1516741323010",
+      "tags": [
+        "男",
+        "青年",
+        "北京口音",
+        "直率"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_bvdongbei",
+      "name": "虎子的声音",
+      "voice_id": "1516751371778",
+      "tags": [
+        "男",
+        "青年",
+        "东北口音",
+        "幽默"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_bvtianjin",
+      "name": "好汉的声音",
+      "voice_id": "1516222121218",
+      "tags": [
+        "男",
+        "中年",
+        "天津口音",
+        "亲切"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_bvwuhan",
+      "name": "伢子的日常的声音",
+      "voice_id": "1511137445378",
+      "tags": [
+        "男",
+        "青年",
+        "武汉口音",
+        "直率"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_changshakln",
+      "name": "湘都朗少",
+      "voice_id": "900764542622466",
+      "tags": [
+        "男",
+        "青年",
+        "长沙口音",
+        "阳光"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_gangpu_conversation_wvae_bigtts",
+      "name": "湾区大叔",
+      "voice_id": "34092043859764994",
+      "tags": [
+        "男",
+        "中年",
+        "香港口音",
+        "帅气"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_guangpuyouxi",
+      "name": "广普小哥",
+      "voice_id": "10661220630530",
+      "tags": [
+        "男",
+        "青年",
+        "广东口音",
+        "热情"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_guangxi_m179_wvae_bigtts",
+      "name": "广西远舟",
+      "voice_id": "28470542033666",
+      "tags": [
+        "男",
+        "青年",
+        "广西口音",
+        "亲切"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_henan_m421_wvae_bigtts",
+      "name": "豫州子轩",
+      "voice_id": "28470680208386",
+      "tags": [
+        "男",
+        "青年",
+        "河南口音",
+        "直率"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_kuaiban",
+      "name": "快板演员",
+      "voice_id": "11859208150274",
+      "tags": [
+        "男",
+        "青年",
+        "天津口音",
+        "幽默"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_m710_conversation_wvae_bigtts",
+      "name": "广州德哥",
+      "voice_id": "5237658896130",
+      "tags": [
+        "男",
+        "青年",
+        "广东口音",
+        "自信"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_nanchangygn",
+      "name": "南音阳仔",
+      "voice_id": "900212727912450",
+      "tags": [
+        "男",
+        "青年",
+        "南昌口音",
+        "随和"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_nfgaoxiao",
+      "name": "江浙小哥",
+      "voice_id": "11122159615746",
+      "tags": [
+        "男",
+        "青年",
+        "江浙口音",
+        "幽默"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_qingdao_m01_wvae_bigtts",
+      "name": "浩宇小哥",
+      "voice_id": "32096803418370",
+      "tags": [
+        "男",
+        "青年",
+        "山东口音",
+        "阳光"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_sichuanskn",
+      "name": "川渝小伙",
+      "voice_id": "900518482806530",
+      "tags": [
+        "男",
+        "青年",
+        "四川话",
+        "热情"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_taishizhongwen",
+      "name": "泰国小哥",
+      "voice_id": "11859346388994",
+      "tags": [
+        "男",
+        "青年",
+        "泰国口音",
+        "热情"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_taiwan_clone2",
+      "name": "湾湾宅男",
+      "voice_id": "11859331021314",
+      "tags": [
+        "男",
+        "青年",
+        "台湾口音",
+        "亲切"
+      ],
+      "tab": "accent,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_19abc3128fbb",
+      "name": "绯樱神巫",
+      "voice_id": "2516455981560834",
+      "tags": [
+        "女",
+        "青年",
+        "优雅"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_1beb294a9e3e",
+      "name": "精灵向导",
+      "voice_id": "1551880520297218",
+      "tags": [
+        "女",
+        "少年",
+        "软糯"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_24dff5266b30",
+      "name": "蛇发女妖",
+      "voice_id": "23252579998991",
+      "tags": [
+        "女",
+        "青年",
+        "成熟"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_2b64a6c1d37f",
+      "name": "调皮公主",
+      "voice_id": "18155161469954",
+      "tags": [
+        "女",
+        "少年",
+        "娇气"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_2ee0478a605a",
+      "name": "鬼马精灵",
+      "voice_id": "23075924821519",
+      "tags": [
+        "女",
+        "少年",
+        "可爱"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_36c7bd9605aa",
+      "name": "魔法小黑",
+      "voice_id": "209393126652162",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_4634ac0d9e82",
+      "name": "媚娇俏娘",
+      "voice_id": "1404886930860034",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_46d77e8e1b06",
+      "name": "病弱少女",
+      "voice_id": "18770280831746",
+      "tags": [
+        "女",
+        "少年",
+        "懦弱"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_4764bf76022d",
+      "name": "温柔格格",
+      "voice_id": "310467120156674",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_4e70416c7410",
+      "name": "温柔小云",
+      "voice_id": "310100580835074",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_699a8cde9740",
+      "name": "病娇姐姐",
+      "voice_id": "18155161467906",
+      "tags": [
+        "女",
+        "青年",
+        "懦弱"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_7aea582aa32c",
+      "name": "吴敏霞",
+      "voice_id": "71920676296450",
+      "tags": [
+        "女",
+        "青年",
+        "自信"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_7b76e4aafb6c",
+      "name": "沪上傲女",
+      "voice_id": "822277203826690",
+      "tags": [
+        "女",
+        "青年",
+        "倔强"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_be2856499af4",
+      "name": "火舞魅娘",
+      "voice_id": "3091664424064770",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_bf4e1d132b48",
+      "name": "恶魔女仆",
+      "voice_id": "23345876532239",
+      "tags": [
+        "女",
+        "青年",
+        "腹黑"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_d9cabc336920",
+      "name": "疯狂小云",
+      "voice_id": "310651049818626",
+      "tags": [
+        "女",
+        "青年",
+        "疯批"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_dbc212d9a580",
+      "name": "白骨精",
+      "voice_id": "205478572618498",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_e9fcf378f4bc",
+      "name": "刘语熙",
+      "voice_id": "91763959604482",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_eaf8dd4a3a0d",
+      "name": "灵兔少女",
+      "voice_id": "2214023244143618",
+      "tags": [
+        "女",
+        "少年",
+        "可爱"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_f6d8447c5ad5",
+      "name": "刘语熙",
+      "voice_id": "71920676273666",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_angela",
+      "name": "火焰少女",
+      "voice_id": "169908439685890",
+      "tags": [
+        "女",
+        "少年",
+        "可爱"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_baoqingfangzhu",
+      "name": "妩媚少女",
+      "voice_id": "11122190304002",
+      "tags": [
+        "女",
+        "少年",
+        "娇气"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_doubaoyushuxin",
+      "name": "奶音甜妹",
+      "voice_id": "340182190771202",
+      "tags": [
+        "女",
+        "青年",
+        "可爱"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_gentlemother",
+      "name": "慈悲仙人",
+      "voice_id": "169273381600258",
+      "tags": [
+        "女",
+        "中年",
+        "理性"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_guli_stream_gpu",
+      "name": "顾姐",
+      "voice_id": "2449989985516290",
+      "tags": [
+        "女",
+        "青年",
+        "倔强"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_huafei",
+      "name": "霸气贵妃",
+      "voice_id": "169273274045442",
+      "tags": [
+        "女",
+        "中年",
+        "霸道"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_leidian",
+      "name": "雷霆女神",
+      "voice_id": "2449901835794690",
+      "tags": [
+        "女",
+        "青年",
+        "成熟"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_leidian_conversation_wvae_bigtts",
+      "name": "高冷御姐",
+      "voice_id": "34080658021028354",
+      "tags": [
+        "女",
+        "青年",
+        "傲娇"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_linzhiling",
+      "name": "嗲甜女神",
+      "voice_id": "169540082084866",
+      "tags": [
+        "女",
+        "青年",
+        "甜美"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_meiyangyang",
+      "name": "萝莉小羊",
+      "voice_id": "10661251327746",
+      "tags": [
+        "女",
+        "小孩",
+        "娇气"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_naying",
+      "name": "直爽二姐",
+      "voice_id": "169112691673346",
+      "tags": [
+        "女",
+        "青年",
+        "直率"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_nverguo",
+      "name": "女儿国王",
+      "voice_id": "11583306513154",
+      "tags": [
+        "女",
+        "中年",
+        "妩媚"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_taihou",
+      "name": "唠叨奶奶",
+      "voice_id": "11859346377474",
+      "tags": [
+        "女",
+        "老年",
+        "霸道"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_xiaowanzi",
+      "name": "樱莓朵朵",
+      "voice_id": "11442252179202",
+      "tags": [
+        "女",
+        "少年",
+        "活泼"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_yangmi",
+      "name": "娇媚女主",
+      "voice_id": "169359953525506",
+      "tags": [
+        "女",
+        "青年",
+        "成熟"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_yingtiannini",
+      "name": "樱花小妮",
+      "voice_id": "340092573104898",
+      "tags": [
+        "女",
+        "小孩",
+        "稚气"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_fenzhuzhu_mars_bigtts",
+      "name": "粉小猪",
+      "voice_id": "200993111607298",
+      "tags": [
+        "女",
+        "小孩",
+        "可爱"
+      ],
+      "tab": "characters,female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_08641e330c1a",
+      "name": "黄健翔",
+      "voice_id": "91763959596034",
+      "tags": [
+        "男",
+        "中年",
+        "幽默"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_1289539b58cb",
+      "name": "解家花少",
+      "voice_id": "2231913314213378",
+      "tags": [
+        "男",
+        "青年",
+        "明亮"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_1ac874f1d76f",
+      "name": "勇敢小童",
+      "voice_id": "310559783601666",
+      "tags": [
+        "男",
+        "少年",
+        "稚气"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_205cc3ca1152",
+      "name": "不羁雅痞",
+      "voice_id": "1404277670964226",
+      "tags": [
+        "男",
+        "青年",
+        "明亮"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_20d7dee4af54",
+      "name": "万能蓝喵",
+      "voice_id": "324365617865730",
+      "tags": [
+        "男",
+        "少年",
+        "稚气"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_21c82f5cbb7b",
+      "name": "咆哮小哥",
+      "voice_id": "2094687234531842",
+      "tags": [
+        "男",
+        "青年",
+        "冲动"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_3bb18f934f4e",
+      "name": "冷酷哥哥",
+      "voice_id": "18592439927042",
+      "tags": [
+        "男",
+        "青年",
+        "冷酷"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_4de9559d25fb",
+      "name": "雾隐公子",
+      "voice_id": "2214060599727362",
+      "tags": [
+        "男",
+        "青年",
+        "成熟"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_4fba48c6d3cc",
+      "name": "蓝曜修士",
+      "voice_id": "2216463290365442",
+      "tags": [
+        "男",
+        "青年",
+        "磁性"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_573d5aaf410b",
+      "name": "闪电宝宝",
+      "voice_id": "310470444759810",
+      "tags": [
+        "男",
+        "少年",
+        "可爱"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_5bac6712818c",
+      "name": "骄纵大猫",
+      "voice_id": "310650340601346",
+      "tags": [
+        "男",
+        "少年",
+        "冲动"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_68a5a6bc5110",
+      "name": "幽默唐僧",
+      "voice_id": "18223469596162",
+      "tags": [
+        "男",
+        "中年",
+        "幽默"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_7a54aedeb4f4",
+      "name": "周墨辰",
+      "voice_id": "226283334643970",
+      "tags": [
+        "男",
+        "青年",
+        "低沉"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_7aa1977db74b",
+      "name": "潇洒诗人",
+      "voice_id": "456665634163202",
+      "tags": [
+        "男",
+        "中年",
+        "潇洒"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_86f3ebed3850",
+      "name": "京剧大师",
+      "voice_id": "310197655669250",
+      "tags": [
+        "男",
+        "青年",
+        "明亮"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_89fc884f7f0b",
+      "name": "断角狂魔",
+      "voice_id": "205576516995330",
+      "tags": [
+        "男",
+        "青年",
+        "勇敢"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_8d858c1560ed",
+      "name": "光头憨憨",
+      "voice_id": "3092508568760322",
+      "tags": [
+        "男",
+        "青年",
+        "幽默"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_a3bd4901c4df",
+      "name": "优柔帮主",
+      "voice_id": "18431552709378",
+      "tags": [
+        "男",
+        "青年",
+        "腹黑"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_a9255575d8a4",
+      "name": "济世大师",
+      "voice_id": "310651394573826",
+      "tags": [
+        "男",
+        "中年",
+        "潇洒"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_ac507c8a8550",
+      "name": "赛兔子",
+      "voice_id": "240079963671810",
+      "tags": [
+        "男",
+        "青年",
+        "自信"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_ba24ccf23bc7",
+      "name": "墨镜黑哥",
+      "voice_id": "2231908783024130",
+      "tags": [
+        "男",
+        "青年",
+        "潇洒"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_c021bc19bf92",
+      "name": "腹黑霸总",
+      "voice_id": "3971344832695810",
+      "tags": [
+        "男",
+        "青年",
+        "磁性"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_c1cee47f0150",
+      "name": "小丑",
+      "voice_id": "229799751834370",
+      "tags": [
+        "男",
+        "青年",
+        "喜感"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_cd62e63dcdab",
+      "name": "黯刃秦主",
+      "voice_id": "2450340410534658",
+      "tags": [
+        "男",
+        "青年",
+        "帅气"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_d8c94c04d627",
+      "name": "清朗公子",
+      "voice_id": "1405226586027778",
+      "tags": [
+        "男",
+        "青年",
+        "温柔"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_da6a164900d4",
+      "name": "水刃公子",
+      "voice_id": "2094681566166274",
+      "tags": [
+        "男",
+        "青年",
+        "明亮"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_e4ad1dc62f80",
+      "name": "机灵小鼠",
+      "voice_id": "310557018825218",
+      "tags": [
+        "男",
+        "少年",
+        "活泼"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_e991be511569",
+      "name": "内敛才俊",
+      "voice_id": "1405222715298050",
+      "tags": [
+        "男",
+        "青年",
+        "理性"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_ef8ea1c85ba9",
+      "name": "优柔公子",
+      "voice_id": "18223531084290",
+      "tags": [
+        "男",
+        "青年",
+        "懦弱"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_f2de6b7380ee",
+      "name": "喜剧小强",
+      "voice_id": "1552130467038978",
+      "tags": [
+        "男",
+        "青年",
+        "沙哑"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_f35ff006eb05",
+      "name": "智慧小羊",
+      "voice_id": "3091896388796418",
+      "tags": [
+        "男",
+        "小孩",
+        "开朗"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_ffed9fc2fee7",
+      "name": "闷油瓶小哥",
+      "voice_id": "2214687938636546",
+      "tags": [
+        "男",
+        "青年",
+        "理性"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "labixx",
+      "name": "捣蛋小孩",
+      "voice_id": "169360337537026",
+      "tags": [
+        "男",
+        "少年",
+        "天真"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_dongmanxiaoyang_moon_bigtts",
+      "name": "动漫小羊",
+      "voice_id": "1513968150274",
+      "tags": [
+        "男",
+        "小孩",
+        "稚气"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_ddly_wvae_bigtts",
+      "name": "阳光青年",
+      "voice_id": "2286978315778",
+      "tags": [
+        "男",
+        "青年",
+        "自信"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_doudizhu",
+      "name": "开心地主",
+      "voice_id": "344368442696962",
+      "tags": [
+        "男",
+        "青年",
+        "明亮"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_libai",
+      "name": "古风诗人",
+      "voice_id": "111",
+      "tags": [
+        "男",
+        "青年",
+        "潇洒"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_milaoshu",
+      "name": "星鼠仔",
+      "voice_id": "2449810528203778",
+      "tags": [
+        "男",
+        "青年",
+        "尖细"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_nanshezhang_bazong_clone2",
+      "name": "霸道少爷",
+      "voice_id": "11341533804034",
+      "tags": [
+        "男",
+        "青年",
+        "霸道"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_nezha",
+      "name": "藕霸小童",
+      "voice_id": "11586117259522",
+      "tags": [
+        "男",
+        "少年",
+        "倔强"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_renmao_mars_bigtts",
+      "name": "桃花庵主",
+      "voice_id": "1551962899359490",
+      "tags": [
+        "男",
+        "青年",
+        "沙哑"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_rulaifo",
+      "name": "福气仙人",
+      "voice_id": "169540343185666",
+      "tags": [
+        "男",
+        "中年",
+        "潇洒"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_tanglaoya",
+      "name": "麦小鸭",
+      "voice_id": "2449901144542210",
+      "tags": [
+        "男",
+        "青年",
+        "喜感"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_tangseng",
+      "name": "唐僧",
+      "voice_id": "341772164034818",
+      "tags": [
+        "男",
+        "青年",
+        "温柔"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_wangye",
+      "name": "王小也",
+      "voice_id": "2449903586819586",
+      "tags": [
+        "男",
+        "青年",
+        "潇洒"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_xiaohaimian_mars_bigtts",
+      "name": "小海绵",
+      "voice_id": "26045379951874",
+      "tags": [
+        "男",
+        "少年",
+        "喜感"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_xiaosaxiake_moon_bigtts",
+      "name": "潇洒侠客",
+      "voice_id": "110",
+      "tags": [
+        "男",
+        "中年",
+        "倔强"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_zhangyuge",
+      "name": "章鱼大哥",
+      "voice_id": "11859208119042",
+      "tags": [
+        "男",
+        "青年",
+        "丧"
+      ],
+      "tab": "characters,male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_04a514916ce0",
+      "name": "冷酷教主",
+      "voice_id": "259608745591554",
+      "tags": [
+        "女",
+        "青年",
+        "冷酷"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_06ae5d922e5c",
+      "name": "病娇萌妹",
+      "voice_id": "226545638332674",
+      "tags": [
+        "女",
+        "青年",
+        "疯批"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_11c6b3f0bd6d",
+      "name": "活泼女孩",
+      "voice_id": "18223469591298",
+      "tags": [
+        "女",
+        "少年",
+        "阳光"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_16cd9a58768e",
+      "name": "清冷阿梦",
+      "voice_id": "3092321416028418",
+      "tags": [
+        "女",
+        "青年",
+        "成熟"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_1702ae58e334",
+      "name": "妩媚教主",
+      "voice_id": "259874659023874",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_1e0d650550d5",
+      "name": "病娇公主",
+      "voice_id": "205125590660098",
+      "tags": [
+        "女",
+        "青年",
+        "疯批"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_239eff5e8ffa",
+      "name": "温柔女神",
+      "voice_id": "259515461731842",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_2ae57cf69359",
+      "name": "文静同桌",
+      "voice_id": "285039388184322",
+      "tags": [
+        "女",
+        "青年",
+        "甜美"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_49240bb7f5ac",
+      "name": "可爱女生",
+      "voice_id": "18592378481410",
+      "tags": [
+        "女",
+        "青年",
+        "天真"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_6390a2c17af6",
+      "name": "傲娇女友",
+      "voice_id": "154748494614530",
+      "tags": [
+        "女",
+        "青年",
+        "傲娇"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_66c9d7c1dfe3",
+      "name": "慵懒女友",
+      "voice_id": "266038331594498",
+      "tags": [
+        "女",
+        "青年",
+        "成熟"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_6acf86286e24",
+      "name": "甜美小雪",
+      "voice_id": "3092232558775554",
+      "tags": [
+        "女",
+        "青年",
+        "可爱"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_710d36ba9ce5",
+      "name": "暖心学姐",
+      "voice_id": "18130800948994",
+      "tags": [
+        "女",
+        "青年",
+        "热情"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_80540086776b",
+      "name": "和蔼奶奶",
+      "voice_id": "18770311527682",
+      "tags": [
+        "女",
+        "老年",
+        "慷慨"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_82f03d16d69d",
+      "name": "贴心女友",
+      "voice_id": "155559420522754",
+      "tags": [
+        "女",
+        "青年",
+        "体贴"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_aaa649de9fb3",
+      "name": "病娇女王",
+      "voice_id": "226513767002370",
+      "tags": [
+        "女",
+        "青年",
+        "疯批"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_bad46416a2b7",
+      "name": "甜心小美",
+      "voice_id": "18776824088322",
+      "tags": [
+        "女",
+        "少年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_bc88f7e70fc7",
+      "name": "邻居阿姨",
+      "voice_id": "18770280831234",
+      "tags": [
+        "女",
+        "中年",
+        "耐心"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_d4294b0855df",
+      "name": "温婉师姐",
+      "voice_id": "259516582969346",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_da05661f8c64",
+      "name": "妩媚御姐",
+      "voice_id": "18446559156482",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_e07b6dc9757a",
+      "name": "暖心小妍",
+      "voice_id": "31733816418050",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_e588402fb8ad",
+      "name": "纯真少女",
+      "voice_id": "259608791692546",
+      "tags": [
+        "女",
+        "青年",
+        "甜美"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_e6bae51d37fe",
+      "name": "撩人御姐",
+      "voice_id": "226374677597186",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_f197cd5eb232",
+      "name": "性感御姐",
+      "voice_id": "154660925947906",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_fa08f865b0c6",
+      "name": "假小子",
+      "voice_id": "155702767502850",
+      "tags": [
+        "女",
+        "青年",
+        "活泼"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_fd7fd93fb7b8",
+      "name": "成熟姐姐",
+      "voice_id": "154661278680834",
+      "tags": [
+        "女",
+        "青年",
+        "成熟"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_ff09e121c623",
+      "name": "元气少女",
+      "voice_id": "291109784101890",
+      "tags": [
+        "女",
+        "少年",
+        "稚气"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "en_female_dacey_conversation_wvae_bigtts",
+      "name": "开朗安琪",
+      "voice_id": "13353625708034",
+      "tags": [
+        "女",
+        "青年",
+        "阳光"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "en_female_sarah_new_conversation_wvae_bigtts",
+      "name": "魅力露娜",
+      "voice_id": "12940294560514",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_F466_mars_bigtts",
+      "name": "清甜瑶瑶",
+      "voice_id": "20557006477633026",
+      "tags": [
+        "女",
+        "青年",
+        "甜美"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_F765_mars_bigtts",
+      "name": "活泼可昕",
+      "voice_id": "20568646547030530",
+      "tags": [
+        "女",
+        "青年",
+        "活泼"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_bingjiaoshaonv_wvae_bigtts",
+      "name": "病娇少女",
+      "voice_id": "18770280828418",
+      "tags": [
+        "女",
+        "青年",
+        "傲娇"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_changshengpopo",
+      "name": "慈祥奶奶",
+      "voice_id": "11122144275970",
+      "tags": [
+        "女",
+        "老年",
+        "慈祥"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_chibo",
+      "name": "热情吃播",
+      "voice_id": "11766941091330",
+      "tags": [
+        "女",
+        "青年",
+        "自信"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_dajieshenghuo",
+      "name": "百科姐姐",
+      "voice_id": "11674840924674",
+      "tags": [
+        "女",
+        "青年",
+        "娇气"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_diantaiguanggao",
+      "name": "促销女声",
+      "voice_id": "11766741388290",
+      "tags": [
+        "女",
+        "中年",
+        "阳光"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_dishini",
+      "name": "童话解说",
+      "voice_id": "10753853534210",
+      "tags": [
+        "女",
+        "青年",
+        "热情"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_f220_yule",
+      "name": "八卦少女",
+      "voice_id": "11122190338818",
+      "tags": [
+        "女",
+        "青年",
+        "活泼"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_f261_conversation_wvae_bigtts",
+      "name": "邻家女孩",
+      "voice_id": "2",
+      "tags": [
+        "女",
+        "青年",
+        "耐心"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_jiazi",
+      "name": "绿茶妹妹",
+      "voice_id": "11859208168962",
+      "tags": [
+        "女",
+        "青年",
+        "矫情"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_kailangjiejie_moon_bigtts",
+      "name": "开朗姐姐",
+      "voice_id": "87",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_luolikepu",
+      "name": "超A少女",
+      "voice_id": "10753807408386",
+      "tags": [
+        "女",
+        "少年",
+        "阳光"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_maomao_conversation_wvae_bigtts",
+      "name": "文静毛毛",
+      "voice_id": "117",
+      "tags": [
+        "女",
+        "青年",
+        "亲切"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_meilinvyou_wvae_bigtts",
+      "name": "魅力女友",
+      "voice_id": "15626754162946",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_nuanxinfeifei_moon_bigtts",
+      "name": "暖心菲菲",
+      "voice_id": "108",
+      "tags": [
+        "女",
+        "青年",
+        "亲切"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_qingchezizi_moon_bigtts",
+      "name": "清澈梓梓",
+      "voice_id": "9",
+      "tags": [
+        "女",
+        "青年",
+        "理性"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_qinglengnv",
+      "name": "职场姐姐",
+      "voice_id": "11859331026946",
+      "tags": [
+        "女",
+        "青年",
+        "谦虚"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_qingxin_clone2",
+      "name": "清新女声",
+      "voice_id": "1",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_qinqienvsheng_moon_bigtts",
+      "name": "亲切女声",
+      "voice_id": "7",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_sajiaonvyou_wvae_bigtts",
+      "name": "柔美女友",
+      "voice_id": "18592347738370",
+      "tags": [
+        "女",
+        "青年",
+        "妩媚"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_sinong_conversation_wvae_bigtts",
+      "name": "爽快思思",
+      "voice_id": "118",
+      "tags": [
+        "女",
+        "青年",
+        "直率"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_sophie_conversation_wvae_bigtts",
+      "name": "魅力苏菲",
+      "voice_id": "28",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_taozi_conversation_v4_wvae_bigtts",
+      "name": "小甜妹",
+      "voice_id": "31640707375362",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_tianmeixiaoyuan_moon_bigtts",
+      "name": "甜美小源",
+      "voice_id": "6",
+      "tags": [
+        "女",
+        "青年",
+        "热情"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_tianmeiyueyue_moon_bigtts",
+      "name": "甜美悦悦",
+      "voice_id": "86",
+      "tags": [
+        "女",
+        "青年",
+        "阳光"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_wanhui",
+      "name": "春晚主持",
+      "voice_id": "11584796397826",
+      "tags": [
+        "女",
+        "青年",
+        "自信"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_wenroutaozi_uranus_bigtts",
+      "name": "温柔桃子（升级版）",
+      "voice_id": "104",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_wenroutaozi_v2_mars_bigtts",
+      "name": "温柔桃子（经典版）",
+      "voice_id": "29798555618523394",
+      "tags": [
+        "女",
+        "青年",
+        "温柔"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_wenrouxiaoya_moon_bigtts",
+      "name": "雅妹爱美丽的声音",
+      "voice_id": "1705452912898",
+      "tags": [
+        "女",
+        "青年",
+        "温暖"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_xiaonan_lv_clone2",
+      "name": "温柔姐姐",
+      "voice_id": "4",
+      "tags": [
+        "女",
+        "中年",
+        "内敛"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_xiaonan_yl_clone2",
+      "name": "娱乐主持",
+      "voice_id": "11586117296642",
+      "tags": [
+        "女",
+        "青年",
+        "活泼"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_xinlingjitang_moon_bigtts",
+      "name": "心灵鸡汤",
+      "voice_id": "3",
+      "tags": [
+        "女",
+        "青年",
+        "亲切"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_female_yuanqinvyou_wvae_bigtts",
+      "name": "撒娇学妹",
+      "voice_id": "18770280826114",
+      "tags": [
+        "女",
+        "少年",
+        "娇气"
+      ],
+      "tab": "female,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_002cd5e853f5",
+      "name": "病娇弟弟",
+      "voice_id": "154660925416450",
+      "tags": [
+        "男",
+        "青年",
+        "娇羞"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_0ce6ef379e73",
+      "name": "温柔俊彦",
+      "voice_id": "1551957662395650",
+      "tags": [
+        "男",
+        "青年",
+        "善良"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_0eba0cafc9d9",
+      "name": "神秘法师",
+      "voice_id": "154748986747906",
+      "tags": [
+        "男",
+        "老年",
+        "潇洒"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_1234d9d6caf2",
+      "name": "病弱公子",
+      "voice_id": "154748740235010",
+      "tags": [
+        "男",
+        "青年",
+        "清冷"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_1eed9233299f",
+      "name": "俊朗男友",
+      "voice_id": "18407391857154",
+      "tags": [
+        "男",
+        "青年",
+        "温柔"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_268774096ebf",
+      "name": "总裁大叔",
+      "voice_id": "18241471230466",
+      "tags": [
+        "男",
+        "中年",
+        "坚定"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_404045ae30ef",
+      "name": "青涩奶狗",
+      "voice_id": "211078171436802",
+      "tags": [
+        "男",
+        "青年",
+        "可爱"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_4ce34d3f60f4",
+      "name": "睿语舟舟",
+      "voice_id": "1551960118620930",
+      "tags": [
+        "男",
+        "青年",
+        "成熟"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_51e36c76a2a3",
+      "name": "贴心男友",
+      "voice_id": "154490392883970",
+      "tags": [
+        "男",
+        "青年",
+        "温柔"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_52a63fca41de",
+      "name": "胡子叔叔",
+      "voice_id": "290753369571586",
+      "tags": [
+        "男",
+        "中年",
+        "慈祥"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_55d8c30f79b0",
+      "name": "少年将军",
+      "voice_id": "154748939924226",
+      "tags": [
+        "男",
+        "青年",
+        "坚定"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_565df61c5f7d",
+      "name": "林丹",
+      "voice_id": "70094342209282",
+      "tags": [
+        "男",
+        "青年",
+        "坚定"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_5a413fbc14fc",
+      "name": "沉稳皓轩",
+      "voice_id": "870127902216450",
+      "tags": [
+        "男",
+        "青年",
+        "磁性"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_5aa856e70443",
+      "name": "狂拽青年",
+      "voice_id": "259692544504322",
+      "tags": [
+        "男",
+        "青年",
+        "自信"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_6416864069c3",
+      "name": "冷峻上司",
+      "voice_id": "154661233268226",
+      "tags": [
+        "男",
+        "青年",
+        "冷静"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_6e69deb80ce5",
+      "name": "深情霸总",
+      "voice_id": "226640470239490",
+      "tags": [
+        "男",
+        "青年",
+        "低沉"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_71d0bfef20fe",
+      "name": "温柔男同桌",
+      "voice_id": "154661416888066",
+      "tags": [
+        "男",
+        "青年",
+        "温柔"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_72afa6c5dc07",
+      "name": "病娇少爷",
+      "voice_id": "3092232804622850",
+      "tags": [
+        "男",
+        "青年",
+        "疯批"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_7438742f3b00",
+      "name": "冷酷侠客",
+      "voice_id": "285041077844738",
+      "tags": [
+        "男",
+        "青年",
+        "清冷"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_7a33516fe388",
+      "name": "暖阳阿晨",
+      "voice_id": "812557376620034",
+      "tags": [
+        "男",
+        "青年",
+        "温暖"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_7ba54f5a883e",
+      "name": "男闺蜜俊熙",
+      "voice_id": "838536678012674",
+      "tags": [
+        "男",
+        "青年",
+        "体贴"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_7cffaf8f2b29",
+      "name": "孤傲公子",
+      "voice_id": "18633266123522",
+      "tags": [
+        "男",
+        "青年",
+        "自信"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_8283a2da6393",
+      "name": "幽默大爷",
+      "voice_id": "154749155728898",
+      "tags": [
+        "男",
+        "老年",
+        "苍老"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_839ba45aea95",
+      "name": "纯真学弟",
+      "voice_id": "18407391856898",
+      "tags": [
+        "男",
+        "青年",
+        "阳光"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_8bf854445842",
+      "name": "病娇哥哥",
+      "voice_id": "154661171166978",
+      "tags": [
+        "男",
+        "青年",
+        "清冷"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_8d8b85f6817d",
+      "name": "傲慢少爷",
+      "voice_id": "154572372105730",
+      "tags": [
+        "男",
+        "青年",
+        "傲慢"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_932b3f52bf3d",
+      "name": "奶音俊少",
+      "voice_id": "1615285353850626",
+      "tags": [
+        "男",
+        "青年",
+        "奶声奶气"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_989e59f0082a",
+      "name": "低音小北",
+      "voice_id": "881130184731650",
+      "tags": [
+        "男",
+        "青年",
+        "低沉"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_9b3bc6941076",
+      "name": "清朗宇澄",
+      "voice_id": "1551728731854082",
+      "tags": [
+        "男",
+        "青年",
+        "帅气"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_a7dacfd7619c",
+      "name": "慵懒青年",
+      "voice_id": "260052588459010",
+      "tags": [
+        "男",
+        "青年",
+        "丧"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_a96f1381fbe0",
+      "name": "多情阔少",
+      "voice_id": "812218900685826",
+      "tags": [
+        "男",
+        "青年",
+        "傲慢"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_aefd7c870179",
+      "name": "矜贵少爷",
+      "voice_id": "259608192872962",
+      "tags": [
+        "男",
+        "青年",
+        "腹黑"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_afedffe4586c",
+      "name": "青涩沐阳",
+      "voice_id": "1551876235983362",
+      "tags": [
+        "男",
+        "青年",
+        "明亮"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_b22cd40ccd3e",
+      "name": "奶酷小宇",
+      "voice_id": "812558451257090",
+      "tags": [
+        "男",
+        "青年",
+        "开朗"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_b718c1050dd1",
+      "name": "随性先生",
+      "voice_id": "1682276980395778",
+      "tags": [
+        "男",
+        "青年",
+        "直率"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_ba5e0cff6423",
+      "name": "腹黑公子",
+      "voice_id": "226463701638146",
+      "tags": [
+        "男",
+        "青年",
+        "腹黑"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_ce7f825f09b5",
+      "name": "狡猾青年",
+      "voice_id": "259516045187074",
+      "tags": [
+        "男",
+        "青年",
+        "狡猾"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_d2a02686cf5b",
+      "name": "纯澈少年",
+      "voice_id": "284949151112194",
+      "tags": [
+        "男",
+        "少年",
+        "少年感"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_d4d40acd33dd",
+      "name": "霸道总裁",
+      "voice_id": "18633266128130",
+      "tags": [
+        "男",
+        "青年",
+        "霸道"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_db2696ce5076",
+      "name": "学霸男同桌",
+      "voice_id": "154748479163650",
+      "tags": [
+        "男",
+        "青年",
+        "自信"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_df4fc4d1ce4b",
+      "name": "温柔陆辰",
+      "voice_id": "4305611392398338",
+      "tags": [
+        "男",
+        "青年",
+        "奶狗"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_e0b9b93ee322",
+      "name": "冷酷霸总",
+      "voice_id": "3091791067128578",
+      "tags": [
+        "男",
+        "青年",
+        "磁性"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_e86043e07430",
+      "name": "儒雅总裁",
+      "voice_id": "285583719087362",
+      "tags": [
+        "男",
+        "青年",
+        "磁性"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_edf58cf28b8b",
+      "name": "小奶狗",
+      "voice_id": "154748433860866",
+      "tags": [
+        "男",
+        "青年",
+        "奶声奶气"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_fcc5888b5ef6",
+      "name": "油腻大叔",
+      "voice_id": "260605526427906",
+      "tags": [
+        "男",
+        "青年",
+        "憨气"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "en_male_charlie_conversation_wvae_bigtts",
+      "name": "乐观棣棣",
+      "voice_id": "13721240014594",
+      "tags": [
+        "男",
+        "青年",
+        "热情"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "en_male_jason_conversation_wvae_bigtts",
+      "name": "开朗学长",
+      "voice_id": "12940156318210",
+      "tags": [
+        "男",
+        "青年",
+        "热情"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_M100_conversation_wvae_bigtts",
+      "name": "悠悠君子",
+      "voice_id": "31",
+      "tags": [
+        "男",
+        "青年",
+        "谦虚"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_ahu_conversation_wvae_bigtts",
+      "name": "温暖阿虎",
+      "voice_id": "2341563809026",
+      "tags": [
+        "男",
+        "青年",
+        "阳光"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_aojiaobazong_wvae_bigtts",
+      "name": "傲娇霸总",
+      "voice_id": "15811456332290",
+      "tags": [
+        "男",
+        "青年",
+        "深情"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_changtianyi_xuanyi",
+      "name": "悬疑解说",
+      "voice_id": "11029147777794",
+      "tags": [
+        "男",
+        "青年",
+        "腹黑"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_cheng_mars_bigtts",
+      "name": "温柔子言",
+      "voice_id": "20644528308581890",
+      "tags": [
+        "男",
+        "青年",
+        "温柔"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_cixingjunyu_uranus_bigtts",
+      "name": "磁性俊宇（升级版）",
+      "voice_id": "92865679864322",
+      "tags": [
+        "男",
+        "青年",
+        "帅气"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_cpzdianjing",
+      "name": "热血青年",
+      "voice_id": "11490288829698",
+      "tags": [
+        "男",
+        "青年",
+        "热情"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_ctydongman",
+      "name": "电影解说",
+      "voice_id": "11122144303362",
+      "tags": [
+        "男",
+        "青年",
+        "坚定"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_dongfanghaoran_moon_bigtts",
+      "name": "东方浩然",
+      "voice_id": "1704007725058",
+      "tags": [
+        "男",
+        "中年",
+        "坚定"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_gaoduanguanggao",
+      "name": "广告男声",
+      "voice_id": "11766925720578",
+      "tags": [
+        "男",
+        "青年",
+        "理性"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_gukongbu",
+      "name": "恐怖解说",
+      "voice_id": "11766941094914",
+      "tags": [
+        "男",
+        "中年",
+        "冷酷"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_jieshuoxiaoming_moon_bigtts",
+      "name": "解说小明",
+      "voice_id": "75",
+      "tags": [
+        "男",
+        "青年",
+        "理性"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_junlangxize_mars_bigtts",
+      "name": "清爽男大",
+      "voice_id": "92617757524738",
+      "tags": [
+        "男",
+        "青年",
+        "温柔"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_laoyeye",
+      "name": "慈祥爷爷",
+      "voice_id": "11766741390338",
+      "tags": [
+        "男",
+        "老年",
+        "亲切"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_linjiananhai_moon_bigtts",
+      "name": "邻家男孩",
+      "voice_id": "76",
+      "tags": [
+        "男",
+        "青年",
+        "自信"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_litiebanzi_mars_bigtts",
+      "name": "率性阿哲",
+      "voice_id": "20633949137530626",
+      "tags": [
+        "男",
+        "青年",
+        "直率"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_m219_conversation_wvae_bigtts",
+      "name": "渊博小叔",
+      "voice_id": "34072171082892802",
+      "tags": [
+        "男",
+        "青年",
+        "成熟"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_m286_conversation_wvae_bigtts",
+      "name": "少年梓辛",
+      "voice_id": "2339979394818",
+      "tags": [
+        "男",
+        "青年",
+        "温柔"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_manwei",
+      "name": "译制男声",
+      "voice_id": "11674748796930",
+      "tags": [
+        "男",
+        "青年",
+        "疯批"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_pingshuxiansheng",
+      "name": "评书先生",
+      "voice_id": "10753807405314",
+      "tags": [
+        "男",
+        "中年",
+        "谦虚"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_qingyiyuxuan_mars_bigtts",
+      "name": "阳光阿辰",
+      "voice_id": "92790090331138",
+      "tags": [
+        "男",
+        "青年",
+        "阳光"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_shenyeboke_wvae_bigtts",
+      "name": "深夜播客",
+      "voice_id": "15998292245506",
+      "tags": [
+        "男",
+        "青年",
+        "潇洒"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_xbgaoxiao",
+      "name": "搞笑大锤",
+      "voice_id": "10576715799298",
+      "tags": [
+        "男",
+        "青年",
+        "热情"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_xbyouxi",
+      "name": "游戏解说",
+      "voice_id": "11584796398082",
+      "tags": [
+        "男",
+        "青年",
+        "热情"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_xudong_conversation_wvae_bigtts",
+      "name": "快乐小东",
+      "voice_id": "29",
+      "tags": [
+        "男",
+        "青年",
+        "幽默"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "zh_male_zhengtaikp",
+      "name": "元气正太",
+      "voice_id": "11122144266498",
+      "tags": [
+        "男",
+        "少年",
+        "阳光"
+      ],
+      "tab": "male,recommend",
+      "language": "zh"
+    },
+    {
+      "speaker_id": "ICL_0272959f998e",
+      "name": "Grinchy Cheer",
+      "voice_id": "456128620052482",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_02da3c112c8b",
+      "name": "Zaynee",
+      "voice_id": "1808936167571458",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_02ffb0a613b9",
+      "name": "Magic Boy",
+      "voice_id": "2044465991830530",
+      "tags": [
+        "男",
+        "小孩"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_0cd69af1e92e",
+      "name": "Snow Queen",
+      "voice_id": "2016239989260034",
+      "tags": [
+        "女",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_0dbe448c6f44",
+      "name": "Amie",
+      "voice_id": "534596787630338",
+      "tags": [
+        "女",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_26363613af81",
+      "name": "Stark Man",
+      "voice_id": "2181156770228994",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_2fde4f30bb5b",
+      "name": "Samuel",
+      "voice_id": "339820322375682",
+      "tags": [
+        "男",
+        "老年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_3f046d014bd4",
+      "name": "Michael",
+      "voice_id": "456669029628162",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_4a9c1b2e69be",
+      "name": "Elf",
+      "voice_id": "534011457959426",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_4e0778ec0134",
+      "name": "Steven",
+      "voice_id": "339913493256962",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_7da7951a93c6",
+      "name": "Jacob",
+      "voice_id": "310110871677954",
+      "tags": [
+        "男",
+        "老年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_83616f62e908",
+      "name": "Snowday Hero",
+      "voice_id": "455949909654018",
+      "tags": [
+        "男",
+        "老年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_855116d392b7",
+      "name": "Xmas Mischief",
+      "voice_id": "463665185293570",
+      "tags": [
+        "男",
+        "小孩"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_b53cecbf36ef",
+      "name": "David",
+      "voice_id": "310559783319554",
+      "tags": [
+        "男",
+        "老年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_bfbda4b3869b",
+      "name": "Matthew",
+      "voice_id": "310196070964738",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_c1dce29d49c8",
+      "name": "GingerChime",
+      "voice_id": "518636982275842",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_c53c30d0b9ff",
+      "name": "Charles",
+      "voice_id": "310652337325058",
+      "tags": [
+        "男",
+        "老年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_cdf7314e8bf0",
+      "name": "Polar Guide",
+      "voice_id": "456036325758722",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_d10ed1b27a39",
+      "name": "Severus",
+      "voice_id": "1271603386665218",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_d215a08ccebe",
+      "name": "Ava",
+      "voice_id": "339820475938306",
+      "tags": [
+        "女",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_e63e6ee39bbe",
+      "name": "Joseph",
+      "voice_id": "310194857559298",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_ed98346335ce",
+      "name": "Holiday Twist",
+      "voice_id": "456038383991554",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "ICL_f2ab4224434f",
+      "name": "Santa",
+      "voice_id": "534598308282626",
+      "tags": [
+        "男",
+        "老年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_female_british_queen",
+      "name": "Isabella",
+      "voice_id": "2778450102530",
+      "tags": [
+        "女",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_female_emily_mars_bigtts",
+      "name": "Emily",
+      "voice_id": "201172747025410",
+      "tags": [
+        "女",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_female_grandma",
+      "name": "Mabel",
+      "voice_id": "2600012631810",
+      "tags": [
+        "女",
+        "老年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_female_kat",
+      "name": "Jessie",
+      "voice_id": "21",
+      "tags": [
+        "女",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_female_lauren_moon_bigtts",
+      "name": "Lauren",
+      "voice_id": "106",
+      "tags": [
+        "女",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_female_tina",
+      "name": "Tina",
+      "voice_id": "94",
+      "tags": [
+        "女",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_adam_clone2_labv2",
+      "name": "Jason",
+      "voice_id": "74",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_bojack_horseman",
+      "name": "Boman H",
+      "voice_id": "2419774623570434",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_cupid",
+      "name": "Benjamin",
+      "voice_id": "2598265860354",
+      "tags": [
+        "男",
+        "小孩"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_deadpool",
+      "name": "William",
+      "voice_id": "2604379889922",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_forrest_gump",
+      "name": "Gump",
+      "voice_id": "2414675994631170",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_gannie_mars_bigtts",
+      "name": "Charlie",
+      "voice_id": "1404700169829122",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_grinch",
+      "name": "George",
+      "voice_id": "2601250156290",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_henry_mars_bigtts",
+      "name": "Henry",
+      "voice_id": "201023324270082",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_homer_simpson",
+      "name": "Homer",
+      "voice_id": "2415013403013378",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_kevin_minion",
+      "name": "Minion",
+      "voice_id": "2414585224850178",
+      "tags": [
+        "男",
+        "小孩"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_leonardo_decaprio",
+      "name": "DecaLeo",
+      "voice_id": "2414764328563970",
+      "tags": [
+        "男",
+        "中年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_mark_clone2_labv2",
+      "name": "Mark",
+      "voice_id": "73",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_rick_sanchez",
+      "name": "Wiz Rick",
+      "voice_id": "2415011697842178",
+      "tags": [
+        "男",
+        "老年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_tom",
+      "name": "Tom",
+      "voice_id": "109",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    },
+    {
+      "speaker_id": "en_male_will_clone2_labv2",
+      "name": "Will",
+      "voice_id": "72",
+      "tags": [
+        "男",
+        "青年"
+      ],
+      "tab": "recommend",
+      "language": "en"
+    }
+  ]
+}

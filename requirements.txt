@@ -1,1 +1,6 @@
 websockets>=12.0
+# OpenAI 兼容服务 (openai_server.py) 所需；仅用 CLI 时可不装
+fastapi==0.120.4
+uvicorn[standard]==0.41.0
+# 读取 .env（虽是 uvicorn[standard] 的传递依赖，但代码直接 import，需显式声明）
+python-dotenv==1.2.3

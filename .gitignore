@@ -4,16 +4,30 @@ __pycache__/
 *$py.class
 venv/
 .venv/
+.ruff_cache/
+.mypy_cache/
 
-# 敏感文件
+# 敏感文件：绝不提交
 .cookie
+.cookie.*
+.doubao_cookie
+.doubao_cookie.*
+.env
+!.env.example
 
 # 生成的音频文件
 *.aac
 *.mp3
 *.wav
+*.ogg
+*.opus
+*.pcm
 
-# IDE
+# IDE / 编辑器
 .idea/
 .vscode/
 *.swp
+.DS_Store
+
+# pi 工作区
+.pi-web/
