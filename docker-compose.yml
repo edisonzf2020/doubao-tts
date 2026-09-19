@@ -11,8 +11,7 @@
 
 services:
   doubao-tts:
-    build: .
-    image: doubao-tts:latest
+    image: ghcr.io/edisonzf2020/doubao-tts:main
     container_name: doubao-tts
     restart: unless-stopped
 
@@ -35,9 +34,6 @@ services:
       - ./.doubao_cookie:/app/.doubao_cookie
       # 音色表挂出来，方便重新抓取后立即生效（fetch_voices.py 会写它）
       - ./voices.json:/app/voices.json
-
-    # 合成是网络 IO 密集型；限内存防失控（mem_limit 对 compose 生效）
-    mem_limit: 512m
 
     logging:
       driver: json-file
