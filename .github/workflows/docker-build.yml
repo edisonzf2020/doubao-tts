@@ -9,9 +9,8 @@ on:
   release:
     types: [published]
   push:
-    branches: [main]
-    paths-ignore:
-      - .github/**
+    tags:
+      - 'v*'
 
 permissions:
   contents: read

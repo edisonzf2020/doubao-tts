@@ -296,6 +296,9 @@ _UI_HTML = """<!DOCTYPE html>
          "PingFang SC", "Microsoft YaHei", sans-serif; color: #1a1a1a;
          background: #fff; }
   header { position: sticky; top: 0; background: #fff; z-index: 10;
+           border-bottom: 1px solid #eee; padding: 12px 16px;
+           display: flex; flex-direction: column; align-items: center; }
+  header > * { width: 100%; max-width: 720px; }
            border-bottom: 1px solid #eee; padding: 12px 16px; }
   h1 { font-size: 18px; margin: 0 0 12px; text-align: center; }
   .keybar { display: flex; gap: 8px; align-items: center; }
@@ -311,7 +314,7 @@ _UI_HTML = """<!DOCTYPE html>
   .tab { flex: 1; padding: 8px; text-align: center; border-radius: 8px;
          background: #f2f2f2; cursor: pointer; font-size: 14px; user-select: none; }
   .tab.active { background: #2563eb; color: #fff; }
-  ul { list-style: none; margin: 0; padding: 0; }
+  ul { list-style: none; margin: 0 auto; padding: 0; max-width: 720px; }
   li { display: flex; align-items: center; padding: 12px 16px;
        border-bottom: 1px solid #f2f2f2; }
   .info { flex: 1; min-width: 0; }
@@ -330,7 +333,7 @@ _UI_HTML = """<!DOCTYPE html>
   .play.loading { animation: spin 1s linear infinite; }
   @keyframes spin { to { transform: rotate(360deg); } }
   .hint { padding: 10px 16px; font-size: 13px; color: #b45309;
-          background: #fffbeb; }
+          background: #fffbeb; max-width: 720px; margin: 0 auto; }
   .empty { padding: 40px; text-align: center; color: #999; }
 </style>
 </head>
