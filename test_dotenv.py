@@ -7,9 +7,10 @@
 """
 import os
 import subprocess
+import sys
 from pathlib import Path
 
-PY = ".venv/bin/python"
+PY = sys.executable  # 用当前解释器，不绑定 .venv 路径
 PROBE = (
     "import openai_server as s;"
     "print(f'{s.API_KEY}|{s.PORT}|{s.MAX_CONCURRENCY}|{s.HOST}')"

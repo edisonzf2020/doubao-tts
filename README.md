@@ -5,13 +5,14 @@
 
 ## 安装
 
+用 [uv](https://docs.astral.sh/uv/) 管理依赖（Python 3.13）：
+
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+uv sync
 ```
 
-只用命令行客户端时，`fastapi` / `uvicorn` 可以不装。
+这会自动创建 `.venv` 并装齐依赖。后续命令都用 `uv run python <脚本>.py`
+（下文示例均已带 `uv run` 前缀）；也可先 `source .venv/bin/activate` 再直接用 `python`。
 
 ## 配置 Cookie（必须）
 
@@ -31,7 +32,7 @@ pip install -r requirements.txt
 3. 保存：
 
 ```bash
-python renew_cookie.py --set-cookie "粘贴的内容"
+uv run python renew_cookie.py --set-cookie "粘贴的内容"
 # 或直接写文件
 printf '%s\n' "粘贴的内容" > .cookie
 ```
@@ -51,20 +52,20 @@ Cookie 有效期约 30 天——但本项目支持**自动续期**，配好后�
 
 ```bash
 # 基础用法（默认 mp3）
-python doubao_tts.py "你好，世界" -o hello.mp3
+uv run python doubao_tts.py "你好，世界" -o hello.mp3
 
 # 指定音色
-python doubao_tts.py "欢迎使用豆包" -s yangguang -o welcome.mp3
+uv run python doubao_tts.py "欢迎使用豆包" -s yangguang -o welcome.mp3
 
 # 语速倍率 1.5 倍、音调升 3 个半音
-python doubao_tts.py "快速朗读测试" --speed 1.5 --pitch 3 -o fast.mp3
+uv run python doubao_tts.py "快速朗读测试" --speed 1.5 --pitch 3 -o fast.mp3
 
 # 其他格式
-python doubao_tts.py "测试" --format wav -o out.wav
+uv run python doubao_tts.py "测试" --format wav -o out.wav
 
 # 查看/搜索音色
-python doubao_tts.py --list-speakers
-python doubao_tts.py --search 东北
+uv run python doubao_tts.py --list-speakers
+uv run python doubao_tts.py --search 东北
 ```
 
 ## 二、Python API
@@ -107,14 +108,14 @@ cp .env.example .env
 # 用编辑器把 DOUBAO_TTS_API_KEY 改成你自己的密钥
 #   生成: python3 -c "import secrets; print('sk-' + secrets.token_urlsafe(32))"
 
-python openai_server.py
+uv run python openai_server.py
 ```
 
 也可以直接用环境变量（优先级高于 `.env`）：
 
 ```bash
 export DOUBAO_TTS_API_KEY="sk-your-secret"
-python openai_server.py
+uv run python openai_server.py
 ```
 
 > ⚠️ 这个服务持有你的豆包登录态。未设置 `DOUBAO_TTS_API_KEY` 时只绑定
@@ -190,11 +191,11 @@ client.audio.speech.create(
 
 ```bash
 # 重新拉取（音色会随豆包更新变动）
-python fetch_voices.py
+uv run python fetch_voices.py
 
 # 查看/搜索
-python doubao_tts.py --list-speakers
-python doubao_tts.py --search 四川
+uv run python doubao_tts.py --list-speakers
+uv run python doubao_tts.py --search 四川
 ```
 
 常用简称：
@@ -222,16 +223,16 @@ python doubao_tts.py --search 四川
 
 ```bash
 # 查看状态（两份文件 + 剩余天数）
-python renew_cookie.py --status
+uv run python renew_cookie.py --status
 
 # 对齐两份文件 + 按需续期（剩余 < 25 天才续）
-python renew_cookie.py
+uv run python renew_cookie.py
 
 # cookie 失效后重新保存
-python renew_cookie.py --set-cookie "新的 Cookie 头"
+uv run python renew_cookie.py --set-cookie "新的 Cookie 头"
 
 # cron 每天跑一次，永不过期
-0 4 * * * cd /path/to/doubao-tts && .venv/bin/python renew_cookie.py --quiet >> renew.log 2>&1
+0 4 * * * cd /path/to/doubao-tts && uv run python renew_cookie.py --quiet >> renew.log 2>&1
 ```
 
 **HTTP 服务启动时会自动对齐 + 续期**，之后每 12 小时检查一次，
@@ -283,12 +284,12 @@ Protobuf，非 JSON。`data.speech.gateway.WebSocketRequest` 字段：
 
 ```bash
 # 离线测试（不需要 cookie / 网络，克隆后立即可跑）
-.venv/bin/python test_smoke.py       # protobuf 编解码、格式映射、参数 clamp、导入
-.venv/bin/python test_voices.py      # 音色解析白名单
-.venv/bin/python test_dotenv.py      # .env 加载与优先级
+uv run python test_smoke.py       # protobuf 编解码、格式映射、参数 clamp、导入
+uv run python test_voices.py      # 音色解析白名单
+uv run python test_dotenv.py      # .env 加载与优先级
 
 # 联网测试（需要活跃 cookie，会触网续期，跑完自动恢复 cookie）
-.venv/bin/python test_cookie_sync.py # 双文件对齐 5 场景
+uv run python test_cookie_sync.py # 双文件对齐 5 场景
 ```
 
 所有测试都自带清理：会临时改写的 `.env` / `.cookie` 在结束时无条件恢复。

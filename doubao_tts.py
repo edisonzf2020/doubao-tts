@@ -834,5 +834,10 @@ async def main():
         print(f"\n❌ 合成失败: {result.error}")
 
 
-if __name__ == "__main__":
+def _cli():
+    """同步入口，供 console_scripts / uv run 使用（main 是 async）。"""
     asyncio.run(main())
+
+
+if __name__ == "__main__":
+    _cli()
