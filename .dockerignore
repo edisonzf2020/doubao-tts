@@ -1,0 +1,49 @@
+# 敏感文件：绝不进镜像，运行时由 compose 挂载
+.cookie
+.cookie.*
+.doubao_cookie
+.doubao_cookie.*
+.env
+
+# 虚拟环境与缓存（镜像内由 uv sync 重建）
+.venv
+venv
+__pycache__
+*.py[cod]
+.ruff_cache
+.mypy_cache
+.pytest_cache
+
+# 版本控制
+.git
+.gitignore
+
+# 测试与开发辅助
+test_*.py
+pyrightconfig.json
+.pi-web
+.chunks.txt
+
+# 生成的音频
+*.mp3
+*.wav
+*.aac
+*.ogg
+*.opus
+*.pcm
+
+# 日志
+*.log
+renew.log
+
+# 编辑器 / 系统
+.idea
+.vscode
+*.swp
+.DS_Store
+
+# Docker 自身
+Dockerfile
+.dockerignore
+docker-compose.yml
+docker-compose.yaml

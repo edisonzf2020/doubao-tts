@@ -118,6 +118,21 @@ export DOUBAO_TTS_API_KEY="sk-your-secret"
 uv run python openai_server.py
 ```
 
+### Docker 部署
+
+镜像基于 `ghcr.io/astral-sh/uv:python3.13-alpine`，用 `uv sync --locked` 装依赖。
+
+```bash
+cp .env.example .env            # 改掉 DOUBAO_TTS_API_KEY
+touch .cookie .doubao_cookie    # 挂载源要先存在，否则 Docker 会建成目录
+printf '%s\n' "浏览器复制的 Cookie 头" > .cookie   # 或用扩展导出的 JSON 存到 .doubao_cookie
+
+docker compose up -d
+```
+
+cookie 由 compose 挂载（`.cookie` / `.doubao_cookie` 可读写，保温续期会回写），
+**不会烘进镜像**（`.dockerignore` 已排除）。`.env` 里的变量由 compose 注入。
+
 > ⚠️ 这个服务持有你的豆包登录态。未设置 `DOUBAO_TTS_API_KEY` 时只绑定
 > `127.0.0.1`；若同时把 `DOUBAO_TTS_HOST` 设为非回环地址，服务会拒绝启动。
 
